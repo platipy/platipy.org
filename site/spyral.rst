@@ -5,8 +5,10 @@ A pure-Pygame game development library. Offers a number of very powerful feature
 
 Powerful features of Spyral include:
 
+- Automatic Dirty Rendering
 - Styles
-- Event-driven programming
+- Asynchronous Event-driven programming
 - Actors
 - Built-in Forms
 - Views
+- API built for convenience
