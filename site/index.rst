@@ -12,7 +12,11 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   * :ref:`contributor_application`
+   
+   about
+   spyral
+   gallery
+   contributor_application
 
 
 

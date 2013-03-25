@@ -1,4 +1,13 @@
-Games
-=====
+Games Gallery
+=============
 
-something something
+Educational
+-----------
+
+Coming soon!
+
+
+General
+-------
+
+Coming soon!
