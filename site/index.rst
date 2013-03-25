@@ -6,6 +6,8 @@
 Welcome to Platipy's documentation!
 ===================================
 
+The goal of the Platipy project is to encourage Educational Game Development. If you are new here, you should check out Spyral: our game development framework for Pygame.
+
 Contents:
 
 .. toctree::
