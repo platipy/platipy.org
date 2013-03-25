@@ -1,0 +1,22 @@
+server {
+	listen 80;
+	root /www/platipy.org;
+	index index.html;
+	server_name platipy.org;
+	error_page 404 /404.html;
+	error_page 500 502 503 504 /50x.html;
+	location = /50x.html {
+		root /usr/share/nginx/www;
+	}
+}
+server {
+	listen 80;
+	root /www/dev.platipy.org;
+	index index.html;
+	server_name dev.platipy.org;
+	error_page 404 /404.html;
+	error_page 500 502 503 504 /50x.html;
+	location = /50x.html {
+		root /usr/share/nginx/www;
+	}
+}
